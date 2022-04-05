@@ -24,7 +24,7 @@ This application helps anime lovers find a connection. Anime is a popular topic 
 
 <br/>
 
-[Live Deployment](http://hani-honey.herokuapp.com)
+[Live Deployment](https://honey3app.herokuapp.com/)
 
 <br/>
 
