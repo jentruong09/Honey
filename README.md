@@ -3,7 +3,7 @@
 <br/>
 
 ## Project Description
-This application helps anime lovers find a connection. Anime is a popular topic of discussion, according to Google volume search, close to 100 million people watch anime. Find those that love to watch anime and want to find love at Honey!
+This application helps anime lovers find a connection. Anime is a popular topic of discussion, according to Google volume search, close to 100 million people watch anime. Find those that love to watch anime and want to find love on Honey!
 
 
 <br/>
