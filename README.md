@@ -20,7 +20,7 @@ This application helps anime lovers find a connection. Anime is a popular topic 
 ## Deployment
   
 
-[Repository](https://github.com/middlenamestar/project-3)
+[Repository](https://github.com/jentruong09/Honey)
 
 <br/>
 
